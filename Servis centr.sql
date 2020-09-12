@@ -17,7 +17,7 @@ CREATE TABLE Remontiruemie_modeli
   Naimenovanie VARCHAR NOT NULL,
   Tip VARCHAR NOT NULL,
   Proizvoditel VARCHAR NOT NULL,
-  Tex._characteristiki VARCHAR NOT NULL,
+  Tex_characteristiki VARCHAR NOT NULL,
   Osobennosti VARCHAR NOT NULL,
   Kod_modeli INT NOT NULL,
   PRIMARY KEY (Kod_modeli)
